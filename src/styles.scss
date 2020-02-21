@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+button.BrainhubCarousel__arrows {
+  background-color: initial;
+  &:hover{
+    background-color: initial;
+    span {
+      border-color: #17a2b8;
+    }
+  }
+  span {
+    border-color: #17a2b8;
+  }
+}

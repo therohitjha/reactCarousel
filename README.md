@@ -1,2 +1,0 @@
-# reactCarousel
-Created with CodeSandbox
